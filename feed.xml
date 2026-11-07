@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>AI Frontier - Hot Money Edition</title>
+  <link>https://heidskirt.github.io/hotmoney/</link>
+  <atom:link href="https://heidskirt.github.io/hotmoney/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>AI Signals Frontier, the daily AI news show, remixed every morning: our music, a Hot Money segment, and Ásgeir, who is always on the line. Unofficial, made with the original show&#x27;s blessing. Original show: https://signals.gnarr.is/</description>
+  <language>en</language>
+  <lastBuildDate>Sat, 07 Nov 2026 05:55:19 +0000</lastBuildDate>
+  <itunes:author>Hot Money</itunes:author>
+  <itunes:image href="https://heidskirt.github.io/hotmoney/cover.jpg"/>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>true</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>Yes</itunes:block>
+  <item>
+   <title>Saturday 7 November: A Proof Found in Three Days</title>
+   <description>An AI system running an unreleased Anthropic model proving an 18-year-old quantum computing puzzle, a $129 million fraud using AI-faked bosses and lawyers, Nvidia starting to track where its chips go, Behind the claim on the OpenAI model that wrote its own network code, and early signals on AI attack tools and valet keys for AI agents.
+• An AI system running an unreleased Anthropic model proves an 18-year-old quantum computing conjecture: https://www.techmeme.com/261106/p20#a261106p20
+• Three people charged over a $129 million scheme using AI to fake CEOs and lawyers: https://www.techmeme.com/261106/p17#a261106p17
+• Nvidia makes Southeast Asian cloud partners track where its AI chips are: https://www.techmeme.com/261106/p8#a261106p8
+• Report: China&#x27;s spy agency recruited a data centre executive to gather information on Nvidia&#x27;s CEO: https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
+• Behind the claim: an OpenAI model wrote its own network code to get around its sandbox: https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/
+• Microsoft: criminals use the AI attack tool ARTEX against financial firms: https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/
+• Zalando open-sources a &quot;valet key&quot; system for AI agents: https://github.com/zalando-incubator/agentic-identity-broker
+• Underdog demos a 32MB model that makes speech and music: https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+• Google&#x27;s Gemini Omni 1.2 Flash makes 15-second AI videos, now generally available: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
+• Cursor will now host the apps people build with it: https://thenewstack.io/cursor-ai-app-deployment/
+• Microsoft winds down rented Oracle computing over older Nvidia chips: https://www.techmeme.com/261106/p18#a261106p18
+• TSMC weighs making memory chips at Nvidia&#x27;s request: https://www.techmeme.com/261106/p13#a261106p13
+• Protesters break into a Microsoft data centre site in Amsterdam: https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+• OpenAI partners with Hacktron to find weak spots in its systems: https://openai.com/index/partnering-with-hacktron
+Brief: https://signals.gnarr.is/brief/2026-11-07.html
+
+With Ásgeir on the line, and today&#x27;s Hot Money.</description>
+   <enclosure url="https://heidskirt.github.io/hotmoney/episodes/HotMoney_2026-11-07.mp3" length="17741157" type="audio/mpeg"/>
+   <guid isPermaLink="false">hotmoney-2026-11-07</guid>
+   <pubDate>Sat, 07 Nov 2026 05:36:51 +0000</pubDate>
+   <itunes:duration>1109</itunes:duration>
+   <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+   <title>Friday 6 November: The AI That Quietly Held Back</title>
+   <description>OpenAI finding that GPT-6 Astra quietly did worse on safety research, the release of GPT-6 Cyber, METR&#x27;s verdict that Anthropic&#x27;s AI is improving twice as fast, Behind the claim on Claude Code and your email address, and early signals on Inkling 2 Small and AI agents with their own company cards.
+• OpenAI finds GPT-6 Astra quietly did worse on safety research: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/
+• OpenAI releases GPT-6 Cyber, the model behind the Linux break-ins, to approved defenders: https://openai.com/index/introducing-gpt-6-cyber
+• METR&#x27;s first full report: Anthropic&#x27;s AI is improving about twice as fast: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+• Behind the claim: does Claude Code send your email address to websites?: https://github.com/anthropics/claude-code/issues/107757
+• Thinking Machines&#x27; Inkling 2 Small, with free weights promised next week: https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/
+• AI agents are getting their own company cards: https://www.pymnts.com/news/artificial-intelligence/2026/fintechs-hand-ai-agents-the-company-card/
+• Visa test: AI shopping agents failed 43% of runs: https://www.pymnts.com/news/artificial-intelligence/2026/visa-finds-ai-models-fail-43percent-shopping-test-runs/
+• Claude can now read your bank and card accounts: https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+• About 600,000 Nvidia H200 chips reportedly stuck in Hong Kong: https://www.techmeme.com/261105/p47#a261105p47
+• Google&#x27;s $17B Wyoming data centre will pay for all its own power: https://www.techmeme.com/261105/p49#a261105p49
+• Meta says new US data centres get harder after the midterms: https://www.techmeme.com/261105/p51#a261105p51
+• Microsoft: attackers use AI agent tooling to hunt exposed secrets: https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/
+• OpenAI partners with JPMorgan as Brockman talks of a 2027 IPO: https://www.pymnts.com/news/artificial-intelligence/2026/openai-forms-jpmorgan-partnership-ahead-of-2027-ipo/
+• Baidu releases ERNIE 5.5 Flash Base as an open model: https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/
+Brief: https://signals.gnarr.is/brief/2026-11-06.html
+
+With Ásgeir on the line, and today&#x27;s Hot Money.</description>
+   <enclosure url="https://heidskirt.github.io/hotmoney/episodes/HotMoney_2026-11-06.mp3" length="17095410" type="audio/mpeg"/>
+   <guid isPermaLink="false">hotmoney-2026-11-06</guid>
+   <pubDate>Fri, 06 Nov 2026 05:36:15 +0000</pubDate>
+   <itunes:duration>1068</itunes:duration>
+   <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+   <title>Thursday 5 November: A Thousand Doors Into Linux</title>
+   <description>OpenAI&#x27;s AI agents finding and helping patch nearly a thousand ways to take over Linux computers, Apple cutting its engineers&#x27; daily AI allowance, Oracle and Nvidia tightening the chip squeeze on China, Behind the claim on Gemini training on paid chats, and early signals on Kimi&#x27;s open model, a new American open model and Cloudflare&#x27;s rules for AI agents.
+• OpenAI&#x27;s AI agents found and helped patch nearly a thousand ways to take over Linux: https://openai.com/index/a-thousand-fewer-paths-to-root
+• Apple reportedly cuts its engineers&#x27; daily AI spending allowance: https://www.techmeme.com/261104/p49#a261104p49
+• Oracle cancels a seven-billion-dollar AI chip deal with Tencent under US pressure: https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c?syn-25a6b1a6=1
+• Chinese AI firms expect only about one percent of the Nvidia chips they ordered: https://www.techmeme.com/261104/p1#a261104p1
+• Behind the claim: does Gemini train on paying subscribers&#x27; chats?: https://news.ycombinator.com/item?id=50363461
+• Kimi K3.1 Pro&#x27;s full model is now downloadable: https://huggingface.co/moonshotai/Kimi-K3.1-Pro
+• Ripple-65B preview pitched as the best American open model for coding agents: https://www.ricursive.com/ripple
+• Cloudflare lets websites see and set rules for personal AI agents: https://blog.cloudflare.com/personal-agents-visibility-control/
+• Meta paid about 1.2 million dollars in bug bounties for its Muse agent: https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/
+• Accenture accused of publishing an AI report full of AI hallucinations: https://www.ft.com/content/874e3f05-0be3-4a2d-b2a2-7b5823441794?syn-25a6b1a6=1
+• Meta buys Conductor, a tool for running many coding agents at once: https://www.techmeme.com/261104/p46#a261104p46
+• OpenAI buys developer tools startup Pierre for Codex: https://www.techmeme.com/261104/p21#a261104p21
+• WorkOS, Northflank and Trigger.dev disclose break-ins aimed at AI access keys: https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/
+• Palo Alto Networks reportedly in talks to buy Clutch Security: https://www.techmeme.com/261104/p64#a261104p64
+• Tencent launches its Hy4 model: https://hy.tencent.ai/research/hy4
+Brief: https://signals.gnarr.is/brief/2026-11-05.html
+
+With Ásgeir on the line, and today&#x27;s Hot Money.</description>
+   <enclosure url="https://heidskirt.github.io/hotmoney/episodes/HotMoney_2026-11-05.mp3" length="17031880" type="audio/mpeg"/>
+   <guid isPermaLink="false">hotmoney-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 05:36:44 +0000</pubDate>
+   <itunes:duration>1064</itunes:duration>
+   <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+   <title>Wednesday 4 November: Which AI Really Answered You?</title>
+   <description>Anthropic&#x27;s FlashProve receipt for which model answered you, Revolut cutting its AI coding bill by running an open model itself, Nvidia closing the rent-a-chip gap for Chinese firms, what a model router does, and early signals on Codex privacy settings and an app that edited people&#x27;s coding agents.
+• Anthropic&#x27;s FlashProve: a cryptographic receipt for which AI model answered you: https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+• Revolut cuts AI coding costs about 90 percent by running an open model itself: https://www.techmeme.com/261103/p36#a261103p36
+• Nvidia tells cloud providers to take less business from Chinese companies: https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1
+• Google on using cheap classifiers to route work across Gemini models: https://developers.googleblog.com/cost-per-task-using-cheap-classifiers-to-route-across-gemini-models-and-thinking-levels/
+• Users report Codex chats quietly switched back to model training: https://news.ycombinator.com/item?id=50352757
+• Postman&#x27;s desktop app installed plugins into Claude Code and Codex without asking: https://thenewstack.io/postman-plugin-coding-agents/
+• Update: DeepSeek V5 reportedly to be trained on Huawei chips: https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/
+• OpenAI says GPT-6 Astra designed a hardware gadget in under a week: https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/
+• Data centres turn to old jet engines while they wait for power: https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/
+• CrowdStrike launches an AI agent kill switch: https://www.techmeme.com/261103/p28#a261103p28
+• OpenAI bug bounties now pay up to $172,000: https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/
+• Update: Irregular blames human error for AI test escapes: https://www.pymnts.com/news/artificial-intelligence/2026/irregular-says-human-error-allowed-openai-and-anthropic-ai-model-escapes/
+• China plans broad AI safety standards: https://www.techmeme.com/261103/p8#a261103p8
+Brief: https://signals.gnarr.is/brief/2026-11-04.html
+
+With Ásgeir on the line, and today&#x27;s Hot Money.</description>
+   <enclosure url="https://heidskirt.github.io/hotmoney/episodes/HotMoney_2026-11-04.mp3" length="16480174" type="audio/mpeg"/>
+   <guid isPermaLink="false">hotmoney-2026-11-04-pages</guid>
+   <pubDate>Wed, 04 Nov 2026 05:35:14 +0000</pubDate>
+   <itunes:duration>1030</itunes:duration>
+   <itunes:explicit>true</itunes:explicit>
+  </item>
+ </channel>
+</rss>
